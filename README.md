@@ -1,5 +1,5 @@
 # bootstrap
-An _informal_ xploration of computer science topics.
+An _informal_ exploration of computer science topics.
 
 ##Topics:
 ###Markdown
